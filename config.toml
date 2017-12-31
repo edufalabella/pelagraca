@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://pelagraca.bsrv.net/"
+baseurl = "http://www.pelagraca.com.br/" 
 languageCode = "en-us"
-title = "Pela Graça de Deus"
+title = "Pela Graça"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-111579631-1"
@@ -17,8 +17,7 @@ publishdir = "public"
     subtitle = "Agregador de conteúdo Cristão."
     author = "Eduardo Falabella"
     description = "Agregador de conteúdo cristão"
-    keywords = "acervo, links, acervo cristão, Senhor, agregador, Jesus, Cristo, Deus"
-
+    keywords = "acervo, links, acervo cristão, Senhor, agregador, Jesus, Cristo, Deus, Pela Graça de Deus, pela graca"
     # Body background color
     bodybgcolor = "#f9f9f9"
 

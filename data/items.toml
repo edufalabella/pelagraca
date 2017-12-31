@@ -191,6 +191,14 @@ description = "In 1885, Mr. John T. Armet and his wife rented a corner of a brot
 url = "https://bibletruthpublishers.com/"
 
 [[items]]
+title = "Bible Truth Publishers - Library"
+image = "images/full/img-btp-library.png"
+thumb = "images/thumbs/img-btp-library.png"
+alt = "Bible Truth Publishers - Library"
+description = ""
+url = "https://bibletruthpublishers.com/bible-truth-library/lh"
+
+[[items]]
 title = "whose faith follow"
 image = "images/full/img-wff.png"
 thumb = "images/thumbs/img-wff.png"
@@ -221,6 +229,22 @@ thumb = "images/thumbs/img-desanimo.png"
 alt = "Desânimo?"
 description = "Desânimo?, Mensagens para quem estiver desanimado ou para quando o desânimo chegar..."
 url = "http://desanimo.com"
+
+[[items]]
+title = "Bibleqs"
+image = "images/full/img-desanimoen.png"
+thumb = "images/thumbs/img-desanimoen.png"
+alt = "Bibleqs"
+description = "Beautiful Bible Quotes to enjoy and share"
+url = "http://bibleqs.com/"
+
+[[items]]
+title = "Desanimo"
+image = "images/full/img-desanimoes.png"
+thumb = "images/thumbs/img-desanimoes.png"
+alt = "Desanimo"
+description = "¿Estás desanimado? Mensajes de ánimo para ti."
+url = "http://es.desanimo.com"
 
 [[items]]
 title = "O Pão da Vida"
@@ -397,6 +421,62 @@ thumb = "images/thumbs/img-minhashistoriasevangelisticas.png"
 alt = "Minhas Histórias Evangelísticas"
 description = ""
 url = "https://www.youtube.com/channel/UC1_xZPZ0xsdQ35jPj_xfAxA/videos"
+
+[[items]]
+title = "Veja na Bíblia"
+image = "images/full/img-vejanabiblia.png"
+thumb = "images/thumbs/img-vejanabiblia.png"
+alt = "Veja na Bíblia"
+description = "Veja a Verdade na Bíblia. Não Creia em Homens Rm 3.4; Para não ser enganado por um VENDEDOR, leia o CONTRATO. Para não ser enganado por uma RELIGIÃO e certos tipos de PASTORES, leia a BÍBLIA Conhecereis a Verdade e a Verdade Vos Libertará Jo 8.32"
+url = "http://vejanabiblia.blogspot.com.br/"
+
+[[items]]
+title = "Escrito dos Irmãos do século 19"
+image = "images/full/img-escritodosirmaosdoseculo19.png"
+thumb = "images/thumbs/img-escritodosirmaosdoseculo19.png"
+alt = "Escrito dos irmãos do século 19"
+description = "Escrito dos Irmãos do século 19"
+url = "http://escritodosirmaosseculo19.blogspot.com.br/"
+
+[[items]]
+title = "Reuniões Cristãs no Rio de Janeiro e Juiz de Fora - MG"
+image = "images/full/img-reunioescristasnoriodejaneiro.png"
+thumb = "images/thumbs/img-reunioescristasnoriodejaneiro.png"
+alt = "Reuniões Cristãs no Rio de Janeiro"
+description = "Reuniões cristãs, irmãos reunidos somente ao nome do Senhor, irmãos em Cristo no Rio de Janeiro e Juiz de Fora - MG"
+url = "http://localreuniao.com/index.html"
+
+[[items]]
+title = "Teologia do Pacto ou Dispensações"
+image = "images/full/img-teologiadopactooudispensacoes.png"
+thumb = "images/thumbs/img-teologiadopactooudispensacoes.png"
+alt = "Teologia do Pacto ou Dispensações"
+description = ""
+url = "http://dispensacao.blogspot.com.br/"
+
+[[items]]
+title = "Água, pela Palavra"
+image = "images/full/img-aguapelapalavra.png"
+thumb = "images/thumbs/img-aguapelapalavra.png"
+alt = "Água, pela Palavra"
+description = "... como também Cristo amou a igreja, e a si mesmo se entregou por ela, para a santificar, purificando-a com a lavagem da água, pela palavra (Efésios 5:25-26)"
+url = "http://aguapelapalavra.blogspot.com.br/"
+
+[[items]]
+title = "O Que a Bíblia Diz Sobre Romance e Namoro"
+image = "images/full/img-romanceenamoro.png"
+thumb = "images/thumbs/img-romanceenamoro.png"
+alt = "O Que a Bíblia Diz Sobre Romance e Namoro"
+description = "Tradução do livro Romance, Courtship and Dating: Biblical Principles for Young Christians, de Douglas Nicolet"
+url = "http://romance-namoro.blogspot.com.br/"
+
+[[items]]
+title = "A História da Igreja"
+image = "images/full/img-ahistoriadaigreja.png"
+thumb = "images/thumbs/img-ahistoriadaigreja.png"
+alt = "A História da Igreja"
+description = "Tradução do livro Church History, de Andrew Miller."
+url = "https://a-historia-da-igreja.blogspot.com.br/"
 
 #[[items]]
 #title = "Hugrid Theme"
