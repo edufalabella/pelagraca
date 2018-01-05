@@ -486,6 +486,14 @@ alt = "A Boa Notícia"
 description = "O blog a boa notícia, tem como objetivo levar o leitor a conhecer um pouco mais da obra redentora consumada pelo Senho Jesus Cristo."
 url = "https://aboanoticiadoceu.blogspot.com.br/"
 
+[[items]]
+title = "Greater Riches"
+image = "images/full/img-greaterriches.png"
+thumb = "images/thumbs/img-greaterriches.png"
+alt = "Greater Riches"
+description = "Esteeming the reproach of Christ greater riches than the treasures in Egypt – Hebrews 11:26"
+url = "https://greaterriches.com/"
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"
