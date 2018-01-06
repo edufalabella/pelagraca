@@ -494,6 +494,14 @@ alt = "Greater Riches"
 description = "Esteeming the reproach of Christ greater riches than the treasures in Egypt – Hebrews 11:26"
 url = "https://greaterriches.com/"
 
+[[items]]
+title = "Audio Player"
+image = "images/full/img-audioplayer.png"
+thumb = "images/thumbs/img-audioplayer.png"
+alt = "Audio Player"
+description = "Escute ou faça download de audios contendo a sã doutrina"
+url = "http://leituracrista.com/audioplayer/"
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"
