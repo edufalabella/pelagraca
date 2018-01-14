@@ -502,6 +502,14 @@ alt = "Audio Player"
 description = "Escute ou faça download de audios contendo a sã doutrina"
 url = "http://leituracrista.com/audioplayer/"
 
+[[items]]
+title = "Edificação Cristã em Áudios"
+image = "images/full/img-edificacaocrista.png"
+thumb = "images/thumbs/img-edificacaocrista.png"
+alt = "Edificação Cristã em Áudios"
+description = ""
+url = "https://www.youtube.com/channel/UCvaUA75Q5VNlNKmV99TKp1g/videos"
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"
