@@ -1,6 +1,6 @@
 # Site settings
 baseurl = "http://www.pelagraca.com.br/" 
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Pela Graça"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
