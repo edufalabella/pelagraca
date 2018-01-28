@@ -510,6 +510,14 @@ alt = "Edificação Cristã em Áudios"
 description = ""
 url = "https://www.youtube.com/channel/UCvaUA75Q5VNlNKmV99TKp1g/videos"
 
+[[items]]
+title = "Real Clear Bible"
+image = "images/full/img-RealClearBible.png"
+thumb = "images/thumbs/img-RealClearBible.png"
+alt = "Real Clear Bible"
+description = ""
+url = "http://www.realclearbible.com/"
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"
