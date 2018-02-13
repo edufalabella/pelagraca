@@ -518,6 +518,14 @@ alt = "Real Clear Bible"
 description = ""
 url = "http://www.realclearbible.com/"
 
+[[items]]
+title = "Minutos Finais"
+image = "images/full/img-minutosfinais.png"
+thumb = "images/thumbs/img-minutosfinais.png"
+alt = "Mintuos Finais"
+description = "O que você precisa saber antes que seu tempo termine"
+url = "https://minutos-finais.blogspot.com.br"
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"
