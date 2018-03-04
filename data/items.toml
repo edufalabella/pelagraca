@@ -526,6 +526,14 @@ alt = "Mintuos Finais"
 description = "O que você precisa saber antes que seu tempo termine"
 url = "https://minutos-finais.blogspot.com.br"
 
+[[items]]
+title = "Common Thoughts of Christ"
+image = "images/full/img-commonthoughtsofchrist.png"
+thumb = "images/thumbs/img-commonthoughtsofchrist.png"
+alt = "Common Thoughts of Christ"
+description = "Welcome to a series of webinars on the next 4 Saturdays focusing on “Thoughts of Christ” as we go into each new week with the Lord’s day..."
+url = "https://www.commonthoughtsofchrist.com/"
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"

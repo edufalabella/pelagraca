@@ -1,0 +1,4 @@
+Sitemap: http://www.pelagraca.com.br/sitemap.xml
+
+User-agent: *
+Allow: /
