@@ -534,6 +534,14 @@ alt = "Common Thoughts of Christ"
 description = "Welcome to a series of webinars on the next 4 Saturdays focusing on “Thoughts of Christ” as we go into each new week with the Lord’s day..."
 url = "https://www.commonthoughtsofchrist.com/"
 
+[[items]]
+title = "Il Vangelo in 3 Minuti"
+image = "images/full/Il-Vangelo-in-3-Minuti.png"
+thumb = "images/thumbs/Il-Vangelo-in-3-Minuti.png"
+alt = "Il Vangelo in 3 Minuti"
+description = " E l Eterno mi rispose e disse: Scrivi la visione, incidila su delle tavole, perché si possa leggere speditamente. Habacuque 2:2"
+url = "http://www.vangelo3minuti.net/"
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"
