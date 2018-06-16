@@ -542,6 +542,15 @@ alt = "Il Vangelo in 3 Minuti"
 description = " E l Eterno mi rispose e disse: Scrivi la visione, incidila su delle tavole, perché si possa leggere speditamente. Habacuque 2:2"
 url = "http://www.vangelo3minuti.net/"
 
+[[items]]
+title = "Mensagens do evangelho"
+image = "images/full/img-mensagens-do-evangelho.png"
+thumb = "images/thumbs/img-mensagens-do-evangelho.png"
+alt = "Mensagens do Evangelho"
+description = "O canal Mensagens do evangelho é dedicado a compartilhar mensagens e textos do evangelho em forma de áudio."
+url = "https://www.youtube.com/channel/UCpDWUkdiKppwCyQ86r7rJIQ/videos"
+
+
 #[[items]]
 #title = "Hugrid Theme"
 #image = "images/full/1.png"
